@@ -1,0 +1,10 @@
+
+#aboutfirst{
+    background-image: url('../images/decn.png');
+}
+
+#images{
+display: flex;
+justify-content: flex-end;
+
+}

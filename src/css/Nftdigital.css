@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+#nftdigital{
+    background: linear-gradient(90deg, #8E43FF 0%, #2AEBFD 100%);
+    
+}
+#unique{
+    font-weight: 700;
+}
+
+#nft{
+    font-family: 'Poppins', sans-serif;
+
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+}
+#join{
+    font-family: 'Poppins', sans-serif;
+
+font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+}
+
+#mess{
+    font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+}
+
+#butt{
+    
+    /* THEME */
+    
+
+background: #00D0DD;
+border-radius: 25px;
+
+}

@@ -1,0 +1,42 @@
+.own{
+    background-image: url('../images/decn.png');
+}
+.own #email{
+    width: 35% !important;
+    background: #00d0dd;
+}
+#searchrow{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+   
+}
+.serachover{
+  
+    width: 30px;
+    height: 30px;
+    background: white;
+    top:50%;
+   left: 64.5%;
+    transform: translate(0,-50%);
+    position: absolute;
+    border-radius: 50%;
+}
+
+@media only screen and (max-width: 600px) {
+  .own #email{
+        width: 95% !important;
+    }
+    .serachover{
+  
+        width: 30px;
+        height: 30px;
+        background: white;
+        top:50%;
+       left: 88%;
+        transform: translate(0,-50%);
+        position: absolute;
+        border-radius: 50%;
+    }
+  }

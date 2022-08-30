@@ -1,0 +1,58 @@
+.aboutsecond{
+  background-image: url('../images/decn.png');
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+
+  #cartoon{
+    height: 372px;
+    width: 350px;
+  }
+
+#imagess{
+    position: relative;
+    left: 5%;
+}
+
+#jesus{
+    height: 472px;
+    width: 420px;
+}
+.dot {
+    height: 135px;
+    width: 135px;
+  
+
+    filter: drop-shadow(0px 29px 10px rgba(0, 0, 0, 0.25));
+  
+  }
+  .dot1 {
+    height: 205px;
+    width: 205px;
+ 
+
+ 
+    filter: drop-shadow(0px 29px 10px rgba(0, 0, 0, 0.25));
+
+    
+  
+
+  }
+  .dot2 {
+    height: 135px;
+    width: 135px;
+
+    filter: drop-shadow(0px 29px 10px rgba(0, 0, 0, 0.25));
+    
+
+  }
+
+
+  
+
+  
+  
+

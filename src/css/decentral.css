@@ -1,0 +1,87 @@
+
+  body { 
+             
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+    
+
+}
+
+
+div{
+margin: 0;
+padding: 0;
+font-family: exo, sans-serif;
+
+
+}
+
+
+
+#bepart{
+
+width: 100%; 
+height:90%;
+display: block;
+position: absolute;
+
+
+}
+
+#group{
+
+width: 100%; 
+height:90%;
+display: block;
+position: absolute;
+z-index: 1;
+filter: brightness(1);
+left: 7%;
+}
+
+#back{
+
+width: 100%; 
+height:90%;
+display: block;
+position: absolute;
+z-index: -1;
+
+}
+
+#svgs{
+width: 100%; 
+height:90%;
+top: 50%;
+display: block;
+position: absolute;
+
+filter: brightness(1.75);
+
+}
+
+#imagediv{
+width: 100%; height: 90vh; background: red
+}
+
+#imagediv > div{
+position: relative;
+width: 100%; height: 100%;
+overflow: hidden
+}
+
+.imgoverlay{
+width: 100%;
+height: 100%;
+background-position:center;
+background-size: cover;
+}
+
+
+
+
+
+
+

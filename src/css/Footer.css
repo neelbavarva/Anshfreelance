@@ -1,0 +1,22 @@
+#footericon{
+    width: 50%;
+  
+}
+
+.footericon2{
+    width: 50%;
+display: flex;
+justify-content: space-around;
+}
+
+@media only screen and (max-width: 800px) {
+    #footericon{
+        width: 100%;
+       
+    }
+    /* .footericon2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    } */
+  }
